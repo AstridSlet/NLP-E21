@@ -1,4 +1,4 @@
-# Class 1: The work stack!
+# Class 1: The work stack!!!
 This class will take us through the work stack we will be using for natural language processing. This includes Slack, our channel for communications, Github for accessing code and for assignment hand-ins and Ucloud for accessing compute resources. Along Github we will also introduce unit testing with Github.
 
 ## Preparation for class
