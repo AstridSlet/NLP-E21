@@ -9,8 +9,6 @@ No preperations for class
 - Vote for the coming classes
   - More understanding BERT or more applying BERT
 - Introduction of A3
-hello
-
 
 
 ## Exercises on Attention
